@@ -46,3 +46,6 @@ group :development, :test do
 
   gem "rspec-rails"
 end
+
+gem "react_on_rails", "~> 14.2"
+gem "shakapacker", "~> 8.3"
