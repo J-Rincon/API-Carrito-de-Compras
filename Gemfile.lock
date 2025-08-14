@@ -333,10 +333,10 @@ DEPENDENCIES
   puma (>= 5.0)
   rack-cors
   rails (~> 7.2.2, >= 7.2.2.1)
-  react_on_rails (~> 14.2)
+  react_on_rails (= 14.2.1)
   rspec-rails
   rubocop-rails-omakase
-  shakapacker (~> 8.3)
+  shakapacker (= 8.3)
   sqlite3 (>= 1.4)
   tzinfo-data
 
